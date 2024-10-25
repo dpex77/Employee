@@ -4,5 +4,4 @@ sonar.projectVersion=1.0
 sonar.sourceEncoding=UTF-8
 sonar.sources=.
 sonar.language=py
-sonar.login=admin
-sonar.password=sqa_d4617e1d606c41be1d378d4fa92e24dfdfe3a4c7
+
